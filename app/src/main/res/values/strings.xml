@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">payments-test</string>
+
+    <string name="authorization_label">Authorization</string>
+    <string name="payments_label">Payments</string>
+    <string name="login_hint">Login</string>
+    <string name="login_error">Login can\'t be blank or empty</string>
+    <string name="password_hint">Password</string>
+    <string name="password_error">Password can\'t be blank or empty</string>
+    <string name="log_in">Log in</string>
+    <string name="error_message">Server returned an error with\ncode: %1$d and\nmessage: %2$s</string>
+    <string name="exception_message">Request was interrupted with exception:\n%1$s</string>
+    <string name="amount">%1$s ₽</string>
+</resources>
